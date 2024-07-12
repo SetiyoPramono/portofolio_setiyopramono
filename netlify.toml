@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://mastyo.my.id/"
-  status = 301
-  force = true
